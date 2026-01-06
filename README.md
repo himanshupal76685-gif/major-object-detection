@@ -24,12 +24,10 @@ The application is built with Streamlit to provide a simple web-based interface.
 2. Create and activate virtual environment
 3. Install dependencies:
 
---pip install -r requirements.txt
+## pip install -r requirements.txt
 4. Run the app:
 
---python -m streamlit run app.py
-
-
+## python -m streamlit run app.py
 ## Deployment
 The project is deployed using Streamlit Cloud.
 (Live webcam feature works only on local system due to cloud limitations.)
@@ -37,3 +35,4 @@ The project is deployed using Streamlit Cloud.
 ## Author
 Himanshu
 BCA Major Project
+
